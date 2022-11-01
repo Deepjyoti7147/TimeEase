@@ -24,3 +24,8 @@ To creat the API end-points we need to install Django-RestFreamwork. To install 
 
 Then install Djanco-CORS-headers in the project using command ``` pip install django-cors-headers ```
 
+Google Auth Guide :  https://www.section.io/engineering-education/django-google-oauth/
+
+Google API website: https://console.cloud.google.com/apis/library/browse?filter=category:others&project=time-ease
+
+Markdown Language Syntax: https://www.markdownguide.org/basic-syntax/
