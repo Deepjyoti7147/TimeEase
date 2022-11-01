@@ -29,8 +29,3 @@ Google Auth Guide :  https://www.section.io/engineering-education/django-google-
 Google API website: https://console.cloud.google.com/apis/library/browse?filter=category:others&project=time-ease
 
 Markdown Language Syntax: https://www.markdownguide.org/basic-syntax/
-
-
-This is the text in the dev branch
-
-This is Dev branch text
